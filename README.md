@@ -15,19 +15,14 @@
   </a>
 </div>
 
-<h3> 
-  <br>
-    Hi there! I'm Yara 👋
-</h3>
+### Hi there! I'm Yara 👋
 
-I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science techniques, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
+I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
-- 🇺🇦 Right now, I'm working on many projects relating to the Ukraine-Russia war and identity narratives on social media. 
+- 🇺🇦 Right now, I'm working on many projects about the Ukraine-Russia war and identity narratives on social media. 
 - 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
-<h3>
-  👩‍💻 More about me
-</h3>
+### 👩‍💻 More about me
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
