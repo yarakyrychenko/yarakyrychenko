@@ -15,7 +15,6 @@ I'm an incoming PhD student in Psychology at the University of Cambridge and a G
     <img src="https://img.shields.io/badge/Medium-12100E?style=social&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=yarakyrychenko&style=flat-square&color=blue" alt=""/>
 
 <!--
 **yarakyrychenko/yarakyrychenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
