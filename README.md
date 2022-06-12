@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="140"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,21 +13,34 @@
   <a href="https://medium.com/@k.yara">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <h2> 
+    Hi there! I'm Yara 👋
+  </h2>
 </div>
 
-### Hi there! 👋
 
-I'm an incoming PhD student in Psychology at [the University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science / NLP techniques to answer questions in social psychology. I'm particualrly interested in intergroup conflict, misinformation, polarization and social identity formation through offline and online experiences. 
+I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science / NLP techniques to answer questions in social psychology. I'm particularly interested in intergroup conflict, misinformation, polarization, and social identity formation through offline and online experiences. 
 
-🇺🇦 Right now I'm working on a lot of projects relating to the Ukraine-Russia war and identity narratives on social media. 
+🇺🇦 Right now, I'm working on many projects relating to the Ukraine-Russia war and identity narratives on social media. 
 
-👯 I'm always looking to collaborate on interesting projects and ideas, so please feel free to reach out!
+👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
 
-### More about me
+## 👩‍💻 More about me
 
-In May 2022 I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs where I mostly use data science techniques to study group processes. I'm passionate about advaning and supporitng women in data science and technology.  
+In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
+I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I grew up in Kyiv, Ukraine, and I speak Russian and Ukrainian as my native languages. 
+
+### 🧰 My favorite tools 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
+</div>
 
 
 <!--
