@@ -13,12 +13,10 @@
   <a href="https://medium.com/@k.yara">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <p> 
-    <strong>Yara Kyrychenko</strong>
-  </p>
 </div>
 
 <h3> 
+  <br>
     Hi there! I'm Yara 👋
 </h3>
 
