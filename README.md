@@ -4,6 +4,8 @@ I'm an incoming PhD student in Psychology at the University of Cambridge and a G
 
 🇺🇦 Right now I'm working on a lot of projects relating to the Ukraine-Russia war and identity narratives on social media. 
 
+👯 I'm always looking to collaborate on interesting projects and ideas, so please feel free to reach out!
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/yaroslava-kyrychenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
