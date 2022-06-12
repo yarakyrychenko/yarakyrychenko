@@ -19,11 +19,10 @@
 </div>
 
 
-I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science / NLP techniques to answer questions in social psychology. I'm particularly interested in intergroup conflict, misinformation, polarization, and social identity formation through offline and online experiences. 
+I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science techniques, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
-🇺🇦 Right now, I'm working on many projects relating to the Ukraine-Russia war and identity narratives on social media. 
-
-👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
+- 🇺🇦 Right now, I'm working on many projects relating to the Ukraine-Russia war and identity narratives on social media. 
+- 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
 
 ## 👩‍💻 More about me
