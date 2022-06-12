@@ -13,27 +13,30 @@
   <a href="https://medium.com/@k.yara">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <h2> 
-    Hi there! I'm Yara 👋
-  </h2>
+  <p> 
+    <strong>Yara Kyrychenko</strong>
+  </p>
 </div>
 
+<h3> 
+    Hi there! I'm Yara 👋
+</h3>
 
 I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science techniques, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
 - 🇺🇦 Right now, I'm working on many projects relating to the Ukraine-Russia war and identity narratives on social media. 
 - 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
-
-## 👩‍💻 More about me
+<h3>
+  👩‍💻 More about me
+</h3>
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
 I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I grew up in Kyiv, Ukraine, and I speak Russian and Ukrainian as my native languages. 
 
-### 🧰 My favorite tools 
-
-<div>
+#### 🧰 My favorite tools 
+<div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
