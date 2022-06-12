@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm an incoming PhD student in Psychology at the University of Cambridge and a Gates Scholar. I like using data science / nlp techniques to answer questions in social psychology. I'm particualrly interested in intergroup conflict and how social identities develop over time through offline and online experiences. 
+I'm an incoming PhD student in Psychology at [the University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science / NLP techniques to answer questions in social psychology. I'm particualrly interested in intergroup conflict, misinformation, polarization and social identity formation through offline and online experiences. 
 
 🇺🇦 Right now I'm working on a lot of projects relating to the Ukraine-Russia war and identity narratives on social media. 
 
@@ -17,6 +17,10 @@ I'm an incoming PhD student in Psychology at the University of Cambridge and a G
     <img src="https://img.shields.io/badge/Medium-12100E?style=social&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
+
+### More about me
+
+In May 2022 I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs where I mostly use data science techniques to study group processes. I'm passionate about advaning and supporitng women in data science and technology.  
 
 <!--
 **yarakyrychenko/yarakyrychenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
