@@ -28,7 +28,7 @@ In May 2022, I graduated summa cum laude from [New York University](https://www.
 
 I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I grew up in Kyiv, Ukraine, and I speak Russian and Ukrainian as my native languages. 
 
-#### 🧰 My favorite tools 
+### 🧰 My favorite tools 
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
