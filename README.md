@@ -15,7 +15,7 @@
   </a>
 </div>
 
-### Hi there! I'm Yara 👋
+### 👋 Hi there! I'm Yara
 
 I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
