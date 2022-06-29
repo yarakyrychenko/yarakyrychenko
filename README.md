@@ -19,12 +19,16 @@
 
 I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
-- 🇺🇦 Right now, I'm working on many projects about the Ukraine-Russia war and identity narratives on social media. 
-- 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
+Ongoing projects:
+- 🇺🇦 [2022 Ukraine-Russia war and identity narratives on social media](https://github.com/yarakyrychenko/outgroup-animosity-ukraine).
+- 🌐 [Web applications](https://github.com/yarakyrychenko/van-bavel-app) that investigate polarization and language on social media. 
+- 💬 Group deliberation in online chats. 
+
+👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
 ### 👩‍💻 More about me
 
-In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math honors thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
+In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
 I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I grew up in Kyiv, Ukraine, and I speak Russian and Ukrainian as my native languages. 
 
