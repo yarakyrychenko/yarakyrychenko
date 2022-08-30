@@ -21,7 +21,7 @@ I'm an incoming Psychology PhD student at the [University of Cambridge](https://
 
 I'm currently working on:
 - 🇺🇦 [2022 Ukraine-Russia war and identity narratives on social media](https://github.com/yarakyrychenko/outgroup-animosity-ukraine).
-- 🌐 [Web applications](https://share.streamlit.io/yarakyrychenko/polarization-app/main/app.py) that investigate polarization and language on social media. 
+- 🌐 Web applications that investigate polarization and language on social media. 
 - 💬 Group deliberation in online chats. 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
