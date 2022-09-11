@@ -19,7 +19,7 @@
 
 I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
-I'm currently working on:
+🔭 I'm currently working on:
 - 🇺🇦 [Russia's war in Ukraine and identity narratives on social media](https://github.com/yarakyrychenko/outgroup-animosity-ukraine).
 - 💬 Computational linguistics to understand and artificial intelligence to promote productive group deliberation in conversations. 
 - 🌐 Web applications that investigate polarization and language on social media. 
@@ -30,7 +30,7 @@ I'm currently working on:
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
-I'm a research assistant at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
+I'm an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in data science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
 ### 🧰 My favorite tools 
 <div id="tools">
