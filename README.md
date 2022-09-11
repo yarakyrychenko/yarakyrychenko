@@ -17,7 +17,7 @@
 
 ### 👋 Hi there! I'm Yara
 
-I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
+I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I use data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
 🔭 I'm currently working on:
 - 🇺🇦 Russia's war in Ukraine and identity narratives on social media. [[outgroup-animosity-ukraine](https://github.com/yarakyrychenko/outgroup-animosity-ukraine)] [[war-ua-social-media](https://github.com/yarakyrychenko/ua-social-media-sentiment)]
