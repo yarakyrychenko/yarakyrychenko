@@ -20,9 +20,9 @@
 I'm an incoming Psychology PhD student at the [University of Cambridge](https://www.cam.ac.uk) and a [Gates Scholar](https://www.gatescambridge.org). I like using data science methods, especially Natural Language Processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
 🔭 I'm currently working on:
-- 🇺🇦 [Russia's war in Ukraine and identity narratives on social media](https://github.com/yarakyrychenko/outgroup-animosity-ukraine).
+- 🇺🇦 Russia's war in Ukraine and identity narratives on social media. [[outgroup-animosity-ukraine](https://github.com/yarakyrychenko/outgroup-animosity-ukraine)]
 - 💬 Computational linguistics to understand and artificial intelligence to promote productive group deliberation in conversations. 
-- 🌐 Interactive web applications that investigate polarization and language on social media. 
+- 🌐 Interactive web applications that investigate polarization and language on social media. [[polarization-app](https://yarakyrychenko-polarization-app-app-jwvg7c.streamlitapp.com)] 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out!
 
