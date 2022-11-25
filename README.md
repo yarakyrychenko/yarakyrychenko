@@ -22,7 +22,7 @@ I'm a Psychology PhD student at the [University of Cambridge](https://www.cam.ac
 🔭 I'm currently working on:
 - 🇺🇦 Russia's war in Ukraine and identity narratives on social media. [[outgroup-animosity-ukraine](https://github.com/yarakyrychenko/outgroup-animosity-ukraine)] [[war-ua-social-media](https://github.com/yarakyrychenko/ua-social-media-sentiment)]
 - 💬 Computational linguistics to understand and artificial intelligence to promote productive group deliberation. [[west-conversations](https://github.com/yarakyrychenko/west-conversations)]
-- 🌐 Interactive web applications that investigate polarization and language on social media. [[polarization-app](https://yarakyrychenko-polarization-app-app-jwvg7c.streamlitapp.com)][[language-identity-twitter](https://yarakyrychenko-van-bavel-app-home-jaye38.streamlitapp.com)] 
+- 🌐 Interactive web applications that investigate polarization and language on social media. [[polarization-app](https://yarakyrychenko-polarization-app-app-jwvg7c.streamlitapp.com)][[digital-media-and-democracy-app](https://media-and-dem.streamlit.app)] 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/)!
 
