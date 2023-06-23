@@ -26,6 +26,8 @@ I'm a Psychology PhD student at the [University of Cambridge](https://www.cam.ac
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/) or email me at yk408 (at) cam (dot) ac (dot) uk!
 
+**Test your misinformation susceptibility here: [https://yourmist.streamlit.app](https://yourmist.streamlit.app)** (It only takes 2 minutes!).
+
 ### 👩‍💻 More about me
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
