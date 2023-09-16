@@ -20,9 +20,9 @@
 I'm a Psychology PhD student at the [University of Cambridge](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko) and a [Gates Scholar](https://www.gatescambridge.org). I use data science methods, especially natural language processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
 🔭 I'm currently working on:
-- 🇺🇦 Russia's war in Ukraine and identity narratives on social media. [[boardtopic](https://github.com/yarakyrychenko/boardtopic)]
+- 🇺🇦 Russia's war in Ukraine, propaganda and identity narratives on social media. [[boardtopic](https://github.com/yarakyrychenko/boardtopic)]
+- 🤖 Social identity bias in large language models. 
 - 💬 Computational linguistics to understand and artificial intelligence to promote productive group deliberation. [[west-conversations](https://github.com/yarakyrychenko/west-conversations)]
-- 🌐 Interactive web applications that investigate polarization and language on social media. [[polarization-app](https://yarakyrychenko-polarization-app-app-jwvg7c.streamlitapp.com)][[digital-media-and-democracy-app](https://media-and-dem.streamlit.app)] 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/) or email me at yk408 (at) cam (dot) ac (dot) uk!
 
@@ -32,7 +32,7 @@ I'm a Psychology PhD student at the [University of Cambridge](https://www.sdmlab
 
 In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
-I'm an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
+I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
 ⚡ Read my recent posts about [natural language processing of conversations](https://medium.com/nyu-ds-review/how-to-do-natural-language-processing-of-conversations-in-python-with-convokit-b95b700b8256) and [my top-three advice for college students](https://medium.com/@k.yara/i-graduated-nyu-22-here-are-the-3-things-i-wish-someone-told-me-my-freshman-week-1b1d7207a598).
 
