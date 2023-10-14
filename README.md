@@ -34,7 +34,7 @@ In May 2022, I graduated summa cum laude from [New York University](https://www.
 
 I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
-⚡ Read my recent posts about [natural language processing of conversations](https://medium.com/nyu-ds-review/how-to-do-natural-language-processing-of-conversations-in-python-with-convokit-b95b700b8256) and [my top-three advice for college students](https://medium.com/@k.yara/i-graduated-nyu-22-here-are-the-3-things-i-wish-someone-told-me-my-freshman-week-1b1d7207a598).
+⚡ Read my recent posts about [social media and the war in Ukraine](https://www.thescholar.online/post/scrolling-through-war-how-social-media-empower-ukrainians-to-stand-together-against-adversity), [natural language processing of conversations](https://medium.com/nyu-ds-review/how-to-do-natural-language-processing-of-conversations-in-python-with-convokit-b95b700b8256) and [my top-three advice for college students](https://medium.com/@k.yara/i-graduated-nyu-22-here-are-the-3-things-i-wish-someone-told-me-my-freshman-week-1b1d7207a598).
 
 ### 🧰 My favorite tools 
 <div id="tools">
