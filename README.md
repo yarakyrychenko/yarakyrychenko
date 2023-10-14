@@ -17,12 +17,12 @@
 
 ### 👋 Hi there! I'm Yara
 
-I'm a Psychology PhD student at the [University of Cambridge](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko) and a [Gates Scholar](https://www.gatescambridge.org). I use data science methods, especially natural language processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
+I'm a PhD Candidate, Lab Manager, and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko). I use data science methods, especially natural language processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
 
 🔭 I'm currently working on:
-- 🇺🇦 Russia's war in Ukraine, propaganda and identity narratives on social media. [[boardtopic](https://github.com/yarakyrychenko/boardtopic)]
-- 🤖 Social identity bias in large language models. 
-- 💬 Computational linguistics to understand and artificial intelligence to promote productive group deliberation. [[west-conversations](https://github.com/yarakyrychenko/west-conversations)]
+- 🇺🇦 Russia's war in Ukraine, propaganda, and identity narratives on social media. 
+- 🤖 Social identity bias in large language models.
+- 💬 Misinformation susceptibility and resilience worldwide. 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/) or email me at yk408 (at) cam (dot) ac (dot) uk!
 
@@ -30,7 +30,7 @@ I'm a Psychology PhD student at the [University of Cambridge](https://www.sdmlab
 
 ### 👩‍💻 More about me
 
-In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double-major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
+In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
 
 I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly use data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
