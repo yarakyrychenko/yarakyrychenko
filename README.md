@@ -17,7 +17,7 @@
 
 ### 👋 Hi there! I'm Yara
 
-I'm a PhD Candidate, Lab Manager, and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko). I use data science methods, especially natural language processing, to answer questions in social psychology. I'm particularly interested in `intergroup conflict`, `misinformation`, `polarization`, and `social identity` on `social media`. 
+I'm a PhD Candidate, Lab Manager, and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko). I use data and behavioral science methods, like language models and lab experiments, to study the social identity dynamics of socio-technical systems. I'm particularly interested in `intergroup conflict`, `social identity`, `social media`, `misinformation`, and `generative artificial intelligence`. 
 
 🔭 I'm currently working on:
 - 🇺🇦 Russia's war in Ukraine, propaganda, and identity narratives on social media. 
