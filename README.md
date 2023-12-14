@@ -10,9 +10,12 @@
   <a href="https://twitter.com/YaraKyrychenko">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=SvE3uOwAAAAJ">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Google Scholar Badge"/>
+  </a> 
   <a href="https://medium.com/@k.yara">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
+  </a> 
 </div>
 
 ### 👋 Hi there! I'm Yara
