@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=SvE3uOwAAAAJ">
-    <img src="https://img.shields.io/badge/Scholar-%230077B5.svg?\u0026amp;style=for-the-badge\u0026amp;logo=google-scholar\u0026amp;logoColor=blue\u0026amp;color=white" alt="Google Scholar Badge"/>
+    <img src="https://img.shields.io/badge/Scholar-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=blue&color=white" alt="Google Scholar Badge"/>
   </a> 
   <a href="https://medium.com/@k.yara">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
