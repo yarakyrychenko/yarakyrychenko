@@ -20,12 +20,18 @@
 
 ### 👋 Hi there! I'm Yara
 
-I'm a PhD Candidate, Lab Manager, and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko). I use data and behavioral science methods, like language models and lab experiments, to study the social identity dynamics of socio-technical systems. I'm particularly interested in `intergroup conflict`, `social identity`, `social media`, `misinformation`, and `generative artificial intelligence`. 
+I'm a PhD Candidate and [Gates Scholar](https://www.gatescambridge.org) at the [Cambridge Social Decision-Making Lab](https://www.sdmlab.psychol.cam.ac.uk/staff/yara-kyrychenko), advised by [Sander van der Linden](https://www.sdmlab.psychol.cam.ac.uk/staff/prof-sander-van-der-linden) and [Jon Roozenbeek](https://www.kcl.ac.uk/people/jon-roozenbeek). I use data and behavioral science methods, like language models and lab experiments, to study the social identity dynamics of socio-technical systems. I'm particularly interested in `social identity`, `social media`, `misinformation`, and `artificial intelligence`. 
 
 🔭 I'm currently working on:
-- 🇺🇦 Russia's war in Ukraine, propaganda, and identity narratives on social media. 
-- 🤖 Social identity bias in large language models.
-- 💬 Misinformation susceptibility and resilience worldwide. 
+- What drives intergroup conflict on social media?
+    - Russia's war in Ukraine, propaganda, and identity narratives.
+    - Hammas' Oct 7 attack on Israel and its consequences for Israeli society and the world. 
+- How can we make AI that brings out the best in humanity? 
+    - Social identity biases in large language models.
+- How can people become more resilient to misinformation online?
+    - Profiling misinformation susceptibility worldwide.
+
+I also organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and manage the CSDM Lab. 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/) or email me at yk408 (at) cam (dot) ac (dot) uk!
 
