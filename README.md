@@ -31,7 +31,7 @@ I'm a PhD Candidate and [Gates Scholar](https://www.gatescambridge.org) at the [
 - How can people become more resilient to misinformation online?
     - Profiling misinformation susceptibility worldwide.
 
-I also organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and manage the CSDM Lab. 
+I also organize the [Cambridge Social Psychology Seminar Series](https://talks.cam.ac.uk/show/index/9110) and co-manage the CSDM Lab. 
 
 👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/yaroslava-kyrychenko/) or email me at yk408 (at) cam (dot) ac (dot) uk!
 
@@ -39,9 +39,7 @@ I also organize the [Cambridge Social Psychology Seminar Series](https://talks.c
 
 ### 👩‍💻 More about me
 
-In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double major in Mathematics (Honors) and Psychology. My math thesis explored data-driven solutions to elliptic partial differential equations and numerical matrix inversion techniques more broadly. 
-
-I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly used data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
+In May 2022, I graduated summa cum laude from [New York University](https://www.nyu.edu) with a double major in Mathematics (Honors) and Psychology. I was an associate research scientist at [Tessa West](https://tessawestlab.hosting.nyu.edu) and [Jay Van Bavel](https://www.jayvanbavel.com/lab)'s labs, where I mainly used data science techniques to study group processes. I'm passionate about advancing and supporting women in science and technology. I write about data science, education, and life on [Medium](https://medium.com/@k.yara). I grew up in Kyiv, Ukraine, and my native languages are Ukrainian and Russian. 
 
 ⚡ Read my recent posts about [social media and the war in Ukraine](https://www.thescholar.online/post/scrolling-through-war-how-social-media-empower-ukrainians-to-stand-together-against-adversity), [natural language processing of conversations](https://medium.com/nyu-ds-review/how-to-do-natural-language-processing-of-conversations-in-python-with-convokit-b95b700b8256) and [my top-three advice for college students](https://medium.com/@k.yara/i-graduated-nyu-22-here-are-the-3-things-i-wish-someone-told-me-my-freshman-week-1b1d7207a598).
 
